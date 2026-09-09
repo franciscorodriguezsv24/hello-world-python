@@ -16,7 +16,7 @@ I wrote this software to confirm that my tools work end to end and to establish 
 habits I want to carry forward — readable functions, clear naming, docstrings, and
 code that is easy to walk someone else through.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/cb25222aded542cb99ef04a857db6af3)
 
 # Development Environment
 

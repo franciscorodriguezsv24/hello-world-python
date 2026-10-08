@@ -6,9 +6,7 @@ This program prints a message on the console.
 
 I wrote this to demonstrate my ability to search and learn new things through the documentation.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/113d5bbd9c93452daa9dbfc5ac6a074d)
 
 # Development Environment
 
